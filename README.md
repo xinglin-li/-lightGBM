@@ -27,3 +27,6 @@ These custom nodes integrate open-source package "tsfresh" for time series featu
 
 More details on these methods will be discussed in the upcoming blog.
 
+## Contact
+If you have any questions, suggestions, or collaboration ideas, feel free to reach out to me via email: Xinglin.Li@sas.com.
+
