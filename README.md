@@ -25,7 +25,7 @@ These custom nodes integrate open-source package "tsfresh" for time series featu
 - **LGBM_FE_TSDF_EXT.sas**: Extends extracted features using the TSDF package in `PROC TSMODEL`.
 - **LGBM_FE_ITER_EXT.sas**: Extends features iteratively over the forecasting horizon. Each prediction is followed by feature extraction using the predicted values, iteratively updating the dataset.
 
-More details on these methods are disccussed in the blog: [Custom Light Gradient Boosting Machine Node in SAS Visual](https://communities.sas.com/t5/SAS-Communities-Library/Custom-Light-Gradient-Boosting-Machine-Node-in-SAS-Visual/ta-p/947978). 
+More details on these methods are disccussed in the blog: [Custom Light Gradient Boosting Machine Node in SAS Visual Forecasting](https://communities.sas.com/t5/SAS-Communities-Library/Custom-Light-Gradient-Boosting-Machine-Node-in-SAS-Visual/ta-p/947978). 
 
 ## Contact
 If you have any questions, suggestions, or collaboration ideas, feel free to reach out to me via email: Xinglin.Li@sas.com.
